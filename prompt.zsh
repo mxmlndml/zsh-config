@@ -8,6 +8,6 @@ autoload -Uz compinit && compinit
 
 # prompt
 # username@machine in directory on branch branchname
-# % 
+# %
 NEWLINE=$'\n'
 PROMPT='${NEWLINE}%n@%F{125}%m%f %F{247}in%f %B%F{39}%1~%f%b ${vcs_info_msg_0_}%b ${NEWLINE}%# '
