@@ -1,2 +1,5 @@
-source .zsh/prompt.zsh
-source .zsh/autosuggestions.zsh
+source ~/.zsh/prompt.zsh
+source ~/.zsh/autosuggestions.zsh
+source ~/.zsh/colors.zsh
+
+export EDITOR=nano
