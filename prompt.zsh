@@ -10,4 +10,4 @@ autoload -Uz compinit && compinit
 # username@machine in directory on branch branchname
 # % 
 NEWLINE=$'\n'
-PROMPT='${NEWLINE}%n@%m %F{247}in%f %B%F{39}%1~%f%b ${vcs_info_msg_0_}%b ${NEWLINE}%# '
+PROMPT='${NEWLINE}%n@%F{125}%m%f %F{247}in%f %B%F{39}%1~%f%b ${vcs_info_msg_0_}%b ${NEWLINE}%# '
