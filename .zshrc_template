@@ -1,6 +1,6 @@
 source ~/.zsh/prompt.zsh
 source ~/.zsh/autosuggestions.zsh
 source ~/.zsh/colors.zsh
-source ~/.zsh/vpn.zsh
+source ~/.zsh/vpn/vpn.zsh
 
 export EDITOR=nano
